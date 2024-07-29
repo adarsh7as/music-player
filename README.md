@@ -1,4 +1,4 @@
-# MUSIC PLAYYER
+# MUSIC PLAYER
 Here's a concise overview of a music player project that you can use for your GitHub repository:
 
 ### Description
